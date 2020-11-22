@@ -6,13 +6,13 @@
 }
 
 @import url(//fonts.googleapis.com/css2?family=Courgette&display=swap);
-@import url(//fonts.googleapis.com/css2?family=Dancing+Script&display=swap);
+@import url(//fonts.googleapis.com/css2?family=Kavoon&display=swap);
 
 body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  font-family: "Dancing Script", cursive;
+  font-family: 'Kavoon', cursive;
   order: 2;
   background-image: url("https://www.dropbox.com/s/5f1z1mug9u34lww/path77.png?dl=0&raw=1");
   background-size: 100% 100%;
